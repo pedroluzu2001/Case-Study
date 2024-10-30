@@ -67,11 +67,7 @@ With this results, we can conseider in the insdruy of TCIs and the inversion in 
     summary(model_internet)
     
     ```
-
-    The models evaluate the degree to which investment influences IT training and internet access across genders, allowing us to quantify the effect of increased IT investment.
-
-
-
+ The models evaluate the degree to which investment influences IT training and internet access across genders, allowing us to quantify the effect of increased IT investment.
 ## Results
 
 The findings from the bar chart reveal clear patterns:
